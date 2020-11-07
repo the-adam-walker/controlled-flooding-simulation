@@ -3,6 +3,7 @@
 	<name>controlled-flooding-simulation</name>
 	<comment></comment>
 	<projects>
+		<project>inet-4.2.1</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
